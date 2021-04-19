@@ -46,7 +46,7 @@ Very easy to deploy. You can deploy Darkbot in very less time
 <details>
 
   <summary> • CREDITS👀 • </summary>
-<h2 align="center"> <a href="https://t.me/RESTARTEDH">💥 PKRAAJ_BOT 💥</a></h2>
+<h2 align="center"> <a href="https://t.me/RESTARTEDH">💥 PKRAAJ 💥</a></h2>
  One and only ; HATERS STAY OUT 😏
 
 </details>
@@ -58,7 +58,7 @@ Very easy to deploy. You can deploy Darkbot in very less time
 Simply clone the repository and run the main file:
 ```sh
 git clone https://github.com/Harsh-78/DARK-USERBOT
-cd DARKBOT
+cd PKRAAJ_BOT
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
